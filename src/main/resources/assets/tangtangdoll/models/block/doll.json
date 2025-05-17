@@ -192,6 +192,9 @@
 		"gui": {
 			"rotation": [37.5, 150, 0],
 			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 13.5, 0]
 		}
 	},
 	"render_type": "cutout"
