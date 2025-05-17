@@ -1,6 +1,9 @@
 {
   "block.tangtangdoll.doll": "玩偶",
+  "block.tangtangdoll.doll.desc": "糖糖",
   "block.tangtangdoll.doll_small": "小号玩偶",
+  "block.tangtangdoll.doll_small.desc": "糖糖",
   "block.tangtangdoll.doll_small_hd": "小号玩偶（高清）",
+  "block.tangtangdoll.doll_small_hd.desc": "糖糖",
   "item_group.tangtangdoll": "糖糖玩偶"
 }
