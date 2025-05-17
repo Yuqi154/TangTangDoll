@@ -21,10 +21,6 @@ public class DollItem extends BlockItem implements Equipable {
     @Override
     public void appendHoverText(@NotNull ItemStack itemstack, Item.@NotNull TooltipContext context, @NotNull List<Component> list, @NotNull TooltipFlag flag) {
         super.appendHoverText(itemstack, context, list, flag);
-        String[] description = Component.translatable(itemstack.getDescriptionId()+".desc").getString().split("§n");
-        for (String line : description) {
-            list.add(Component.literal(line));
-        }
-
+        list.add(Component.translatable(itemstack.getDescriptionId()+".desc"));
     }
 }
