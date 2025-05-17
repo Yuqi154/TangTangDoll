@@ -18,4 +18,6 @@ public class TTDBlock {
 	public static final DeferredBlock<Block> DOLL_SMALL = BLOCKS.register("doll_small", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 
+	public static final DeferredBlock<Block> DOLL_SMALL_HD = BLOCKS.register("doll_small_hd", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 }

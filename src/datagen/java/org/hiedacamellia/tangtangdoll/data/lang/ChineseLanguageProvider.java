@@ -18,6 +18,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
 
         add(TTDBlock.DOLL.get(), "玩偶");
         add(TTDBlock.DOLL_SMALL.get(), "小号玩偶");
+        add(TTDBlock.DOLL_SMALL_HD.get(), "小号玩偶（高清）");
 
     }
 }

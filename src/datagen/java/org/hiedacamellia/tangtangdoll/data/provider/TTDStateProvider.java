@@ -16,6 +16,7 @@ public class TTDStateProvider extends BlockStateProvider {
 
         horizontalBlock(TTDBlock.DOLL.get(),models().getExistingFile(modLoc("block/doll")));
         horizontalBlock(TTDBlock.DOLL_SMALL.get(),models().getExistingFile(modLoc("block/doll_small")));
+        horizontalBlock(TTDBlock.DOLL_SMALL_HD.get(),models().getExistingFile(modLoc("block/doll_small_hd")));
 
     }
 }

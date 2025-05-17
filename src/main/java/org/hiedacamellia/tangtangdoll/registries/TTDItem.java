@@ -13,6 +13,7 @@ public class TTDItem {
 
     public static final DeferredItem<BlockItem> DOLL = REGISTRY.register("doll", ()->new DollItem(TTDBlock.DOLL.get()));
     public static final DeferredItem<BlockItem> DOLL_SMALL = REGISTRY.register("doll_small", ()->new DollItem(TTDBlock.DOLL_SMALL.get()));
+    public static final DeferredItem<BlockItem> DOLL_SMALL_HD = REGISTRY.register("doll_small_hd", ()->new DollItem(TTDBlock.DOLL_SMALL.get()));
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);
