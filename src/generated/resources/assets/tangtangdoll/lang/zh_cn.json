@@ -1,9 +1,13 @@
 {
+  "block.tangtangdoll.bilibili_3739055": "玩偶",
+  "block.tangtangdoll.bilibili_3739055.desc": "cv_Bilibili_3739055",
   "block.tangtangdoll.doll": "玩偶",
   "block.tangtangdoll.doll.desc": "糖糖",
   "block.tangtangdoll.doll_small": "小号玩偶",
   "block.tangtangdoll.doll_small.desc": "糖糖",
   "block.tangtangdoll.doll_small_hd": "小号玩偶（高清）",
   "block.tangtangdoll.doll_small_hd.desc": "糖糖",
+  "block.tangtangdoll.miss_heihu": "玩偶",
+  "block.tangtangdoll.miss_heihu.desc": "cv:Miss_Heihu",
   "item_group.tangtangdoll": "糖糖玩偶"
 }

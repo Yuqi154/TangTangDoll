@@ -11,7 +11,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
     public ChineseLanguageProvider(PackOutput output) {
         super(output, TangTangDoll.MODID, "zh_cn");
     }
-
+//玩偶名字和标签 中文
     @Override
     protected void addTranslations() {
 
@@ -20,12 +20,14 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.DOLL.get(), "玩偶","糖糖");
         addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号玩偶","糖糖");
         addWithTooltip(TTDBlock.DOLL_SMALL_HD.get(), "小号玩偶（高清）","糖糖");
+        addWithTooltip(TTDBlock.MISS_HEIHU.get(), "玩偶","cv:Miss_Heihu");
+        addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "玩偶","cv_Bilibili_3739055");
 
     }
-
 
     public void addWithTooltip(Block key, String name, String tooltip) {
         this.add(key.getDescriptionId(), name);
         this.add(key.getDescriptionId()+".desc", tooltip);
     }
 }
+

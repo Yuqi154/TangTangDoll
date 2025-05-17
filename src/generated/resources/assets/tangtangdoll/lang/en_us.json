@@ -1,9 +1,8 @@
 {
+  "block.tangtangdoll.bilibili_3739055": "Doll",
   "block.tangtangdoll.doll": "Doll",
-  "block.tangtangdoll.doll.desc": "Doll",
   "block.tangtangdoll.doll_small": "Small Doll",
-  "block.tangtangdoll.doll_small.desc": "Small Doll",
   "block.tangtangdoll.doll_small_hd": "Small Doll HD",
-  "block.tangtangdoll.doll_small_hd.desc": "Small Doll HD",
+  "block.tangtangdoll.miss_heihu": "Doll",
   "item_group.tangtangdoll": "Tang Tang Doll"
 }

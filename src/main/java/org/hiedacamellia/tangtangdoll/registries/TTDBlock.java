@@ -8,7 +8,7 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import org.hiedacamellia.tangtangdoll.TangTangDoll;
 import org.hiedacamellia.tangtangdoll.common.block.DollBlock;
-
+//注册方块
 public class TTDBlock {
 	public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(TangTangDoll.MODID);
 
@@ -19,5 +19,9 @@ public class TTDBlock {
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 
 	public static final DeferredBlock<Block> DOLL_SMALL_HD = BLOCKS.register("doll_small_hd", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> MISS_HEIHU = BLOCKS.register("miss_heihu", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> BILIBILI_3739055 = BLOCKS.register("bilibili_3739055", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 }
