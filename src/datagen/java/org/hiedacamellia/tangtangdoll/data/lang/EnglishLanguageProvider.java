@@ -21,6 +21,7 @@ public class EnglishLanguageProvider extends LanguageProvider {
         add(TTDBlock.DOLL_SMALL_HD.get(), "Small Doll HD");
         add(TTDBlock.MISS_HEIHU.get(), "Doll");
         add(TTDBlock.BILIBILI_3739055.get(), "Doll");
+        add(TTDBlock.DOLL_HD.get(), "Doll HD");
 
     }
 }

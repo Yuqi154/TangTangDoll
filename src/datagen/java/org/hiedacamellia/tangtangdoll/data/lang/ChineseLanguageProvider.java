@@ -17,11 +17,12 @@ public class ChineseLanguageProvider extends LanguageProvider {
 
         add("item_group.tangtangdoll", "糖糖玩偶");
 
-        addWithTooltip(TTDBlock.DOLL.get(), "玩偶","糖糖");
-        addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号玩偶","糖糖");
-        addWithTooltip(TTDBlock.DOLL_SMALL_HD.get(), "小号玩偶（高清）","糖糖");
-        addWithTooltip(TTDBlock.MISS_HEIHU.get(), "玩偶","cv:Miss_Heihu");
-        addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "玩偶","cv_Bilibili_3739055");
+        addWithTooltip(TTDBlock.DOLL.get(), "示例","这是一个示例");
+        addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号示例","糖糖");
+        addWithTooltip(TTDBlock.DOLL_SMALL_HD.get(), "小号示例（高清）","§l§b示例");
+        addWithTooltip(TTDBlock.MISS_HEIHU.get(), "§l§b玩偶","§l§bcv:Miss_Heihu");
+        addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "§l§c玩偶","§l§cCV:Bilibili_3739055");
+        addWithTooltip(TTDBlock.DOLL_HD.get(), "§l§b玩偶","§l§bcv:Bilibili_3739055");
 
     }
 
