@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "tangtangdoll:block/miss_heihu"
+		"3": "tangtangdoll:block/miss_heihu",
+		"particle": "tangtangdoll:block/miss_heihu"
 	},
 	"elements": [
 		{
@@ -178,7 +179,7 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0.6, 14.2, 0]
+			"translation": [0.1, 14.2, 0]
 		}
 	},
 	"groups": [

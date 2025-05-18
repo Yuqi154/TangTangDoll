@@ -17,6 +17,12 @@ public class TTDItem {
     public static final DeferredItem<BlockItem> MISS_HEIHU = REGISTRY.register("miss_heihu", ()->new DollItem(TTDBlock.MISS_HEIHU.get()));
     public static final DeferredItem<BlockItem> BILIBILI_3739055 = REGISTRY.register("bilibili_3739055", ()->new DollItem(TTDBlock.BILIBILI_3739055.get()));
     public static final DeferredItem<BlockItem> DOLL_HD = REGISTRY.register("doll_hd", ()->new DollItem(TTDBlock.DOLL_HD.get()));
+    public static final DeferredItem<BlockItem> STAUR_XIAOLE = REGISTRY.register("staur_xiaole", ()->new DollItem(TTDBlock.STAUR_XIAOLE.get()));
+    public static final DeferredItem<BlockItem> ENMUSUBI = REGISTRY.register("enmusubi", ()->new DollItem(TTDBlock.ENMUSUBI.get()));
+    public static final DeferredItem<BlockItem> RAT_ZACK_ = REGISTRY.register("ray_zack_", ()->new DollItem(TTDBlock.RAT_ZACK_.get()));
+    public static final DeferredItem<BlockItem> WZNYQP = REGISTRY.register("wznyqp", ()->new DollItem(TTDBlock.WZNYQP.get()));
+    public static final DeferredItem<BlockItem> BKKUY = REGISTRY.register("bkkuy", ()->new DollItem(TTDBlock.BKKUY.get()));
+    public static final DeferredItem<BlockItem> _17SIR = REGISTRY.register("_17sir", ()->new DollItem(TTDBlock._17SIR.get()));
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);

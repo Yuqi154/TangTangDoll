@@ -26,4 +26,17 @@ public class TTDBlock {
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 	public static final DeferredBlock<Block> DOLL_HD = BLOCKS.register("doll_hd", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> STAUR_XIAOLE = BLOCKS.register("staur_xiaole", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> ENMUSUBI = BLOCKS.register("enmusubi", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> RAT_ZACK_ = BLOCKS.register("ray_zack_", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> WZNYQP = BLOCKS.register("wznyqp", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> BKKUY = BLOCKS.register("bkkuy", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> _17SIR = BLOCKS.register("_17sir", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+
 }

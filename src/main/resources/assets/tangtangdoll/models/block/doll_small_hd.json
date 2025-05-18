@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tangtangdoll:block/doll_hd"
+		"1": "tangtangdoll:block/doll_hd",
+		"particle": "tangtangdoll:block/doll_hd"
 	},
 	"elements": [
 		{

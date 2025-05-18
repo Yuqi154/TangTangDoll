@@ -1,0 +1,694 @@
+{
+  "variants": {
+    "facing=east,instrument=banjo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=banjo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=basedrum,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=basedrum,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bass,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bass,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bit,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=bit,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=chime,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=chime,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=cow_bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=cow_bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=creeper,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=creeper,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=custom_head,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=custom_head,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=didgeridoo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=didgeridoo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=dragon,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=dragon,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=flute,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=flute,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=guitar,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=guitar,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=harp,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=harp,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=hat,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=hat,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=iron_xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=iron_xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=piglin,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=piglin,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=pling,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=pling,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=snare,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=snare,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=wither_skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=wither_skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=zombie,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=east,instrument=zombie,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 90
+    },
+    "facing=north,instrument=banjo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=banjo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=basedrum,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=basedrum,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bass,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bass,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bit,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=bit,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=chime,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=chime,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=cow_bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=cow_bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=creeper,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=creeper,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=custom_head,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=custom_head,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=didgeridoo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=didgeridoo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=dragon,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=dragon,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=flute,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=flute,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=guitar,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=guitar,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=harp,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=harp,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=hat,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=hat,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=iron_xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=iron_xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=piglin,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=piglin,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=pling,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=pling,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=snare,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=snare,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=wither_skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=wither_skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=zombie,powered=false": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=north,instrument=zombie,powered=true": {
+      "model": "tangtangdoll:block/bkkuy"
+    },
+    "facing=south,instrument=banjo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=banjo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=basedrum,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=basedrum,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bass,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bass,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bit,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=bit,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=chime,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=chime,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=cow_bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=cow_bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=creeper,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=creeper,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=custom_head,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=custom_head,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=didgeridoo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=didgeridoo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=dragon,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=dragon,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=flute,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=flute,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=guitar,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=guitar,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=harp,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=harp,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=hat,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=hat,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=iron_xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=iron_xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=piglin,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=piglin,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=pling,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=pling,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=snare,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=snare,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=wither_skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=wither_skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=zombie,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=south,instrument=zombie,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 180
+    },
+    "facing=west,instrument=banjo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=banjo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=basedrum,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=basedrum,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bass,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bass,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bit,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=bit,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=chime,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=chime,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=cow_bell,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=cow_bell,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=creeper,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=creeper,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=custom_head,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=custom_head,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=didgeridoo,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=didgeridoo,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=dragon,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=dragon,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=flute,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=flute,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=guitar,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=guitar,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=harp,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=harp,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=hat,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=hat,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=iron_xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=iron_xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=piglin,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=piglin,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=pling,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=pling,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=snare,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=snare,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=wither_skeleton,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=wither_skeleton,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=xylophone,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=xylophone,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=zombie,powered=false": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    },
+    "facing=west,instrument=zombie,powered=true": {
+      "model": "tangtangdoll:block/bkkuy",
+      "y": 270
+    }
+  }
+}
