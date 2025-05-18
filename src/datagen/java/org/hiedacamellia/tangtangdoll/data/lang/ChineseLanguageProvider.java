@@ -29,6 +29,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.WZNYQP.get(), "§l§b玩偶","§l§bCV:WZNYQP");
         addWithTooltip(TTDBlock.BKKUY.get(), "§l§b玩偶","§l§bCV:bkkuy");
         addWithTooltip(TTDBlock._17SIR.get(), "§l§b玩偶","§l§bCV:17sir");
+        addWithTooltip(TTDBlock.MIAN_BAO_OVO.get(), "§l§b玩偶","§l§bCV:Mian_Bao_OvO");
 
     }
 

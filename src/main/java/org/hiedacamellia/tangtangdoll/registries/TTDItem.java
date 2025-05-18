@@ -23,6 +23,7 @@ public class TTDItem {
     public static final DeferredItem<BlockItem> WZNYQP = REGISTRY.register("wznyqp", ()->new DollItem(TTDBlock.WZNYQP.get()));
     public static final DeferredItem<BlockItem> BKKUY = REGISTRY.register("bkkuy", ()->new DollItem(TTDBlock.BKKUY.get()));
     public static final DeferredItem<BlockItem> _17SIR = REGISTRY.register("_17sir", ()->new DollItem(TTDBlock._17SIR.get()));
+    public static final DeferredItem<BlockItem> MIAN_BAO_OVO = REGISTRY.register("miao_bao_ovo", ()->new DollItem(TTDBlock.MIAN_BAO_OVO.get()));
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);

@@ -38,5 +38,7 @@ public class TTDBlock {
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 	public static final DeferredBlock<Block> _17SIR = BLOCKS.register("_17sir", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> MIAN_BAO_OVO = BLOCKS.register("miao_bao_ovo", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 
 }

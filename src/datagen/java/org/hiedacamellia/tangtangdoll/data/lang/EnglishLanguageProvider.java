@@ -28,6 +28,7 @@ public class EnglishLanguageProvider extends LanguageProvider {
         add(TTDBlock.WZNYQP.get(), "Doll");
         add(TTDBlock.BKKUY.get(), "Doll");
         add(TTDBlock._17SIR.get(), "Doll");
+        add(TTDBlock.MIAN_BAO_OVO.get(), "Doll");
 
     }
 }
