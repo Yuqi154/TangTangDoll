@@ -24,7 +24,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "§l§c玩偶","§l§c作者:Bilibili_3739055");
         addWithTooltip(TTDBlock.DOLL_HD.get(), "§l§b玩偶","§l§c作者:Bilibili_3739055");
         addWithTooltip(TTDBlock.STAUR_XIAOLE.get(), "§l§c玩偶","§l§c赞助者:Staur_Xiaole");
-        addWithTooltip(TTDBlock.ENMUSUBI.get(), "§l§b玩偶","§l§bCV:Enmusubi");
+        addWithTooltip(TTDBlock.ENMUSUBI.get(), "§l§c玩偶","§l§c赞助者:Enmusubi");
         addWithTooltip(TTDBlock.RAT_ZACK_.get(), "§l§c玩偶","§l§c赞助者:Ray_Zack_");
         addWithTooltip(TTDBlock.WZNYQP.get(), "§l§c玩偶","§l§c赞助者:WZNYQP");
         addWithTooltip(TTDBlock.BKKUY.get(), "§l§b玩偶","§l§bCV:bkkuy");
