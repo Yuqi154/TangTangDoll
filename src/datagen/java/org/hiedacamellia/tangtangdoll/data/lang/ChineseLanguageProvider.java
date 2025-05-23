@@ -20,16 +20,21 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.DOLL.get(), "示例","这是一个示例");
         addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号示例","糖糖");
         addWithTooltip(TTDBlock.DOLL_SMALL_HD.get(), "小号示例（高清）","§l§b示例");
-        addWithTooltip(TTDBlock.MISS_HEIHU.get(), "§l§b玩偶","§l§bCV:Miss_Heihu");
-        addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "§l§c玩偶","§l§cCV:Bilibili_3739055");
-        addWithTooltip(TTDBlock.DOLL_HD.get(), "§l§b玩偶","§l§bCV:Bilibili_3739055");
-        addWithTooltip(TTDBlock.STAUR_XIAOLE.get(), "§l§b玩偶","§l§bCV:Staur_Xiaole");
+        addWithTooltip(TTDBlock.MISS_HEIHU.get(), "§l§c玩偶","§l§c赞助者:Miss_Heihu");
+        addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "§l§c玩偶","§l§c作者:Bilibili_3739055");
+        addWithTooltip(TTDBlock.DOLL_HD.get(), "§l§b玩偶","§l§c作者:Bilibili_3739055");
+        addWithTooltip(TTDBlock.STAUR_XIAOLE.get(), "§l§c玩偶","§l§c赞助者:Staur_Xiaole");
         addWithTooltip(TTDBlock.ENMUSUBI.get(), "§l§b玩偶","§l§bCV:Enmusubi");
-        addWithTooltip(TTDBlock.RAT_ZACK_.get(), "§l§b玩偶","§l§bCV:Ray_Zack_");
-        addWithTooltip(TTDBlock.WZNYQP.get(), "§l§b玩偶","§l§bCV:WZNYQP");
+        addWithTooltip(TTDBlock.RAT_ZACK_.get(), "§l§c玩偶","§l§c赞助者:Ray_Zack_");
+        addWithTooltip(TTDBlock.WZNYQP.get(), "§l§c玩偶","§l§c赞助者:WZNYQP");
         addWithTooltip(TTDBlock.BKKUY.get(), "§l§b玩偶","§l§bCV:bkkuy");
         addWithTooltip(TTDBlock._17SIR.get(), "§l§b玩偶","§l§bCV:17sir");
         addWithTooltip(TTDBlock.MIAN_BAO_OVO.get(), "§l§b玩偶","§l§bCV:Mian_Bao_OvO");
+        addWithTooltip(TTDBlock.LINGHUAHUAA.get(), "§l§c玩偶","§l§c赞助者:linghuahuaa");
+        addWithTooltip(TTDBlock.DAIDAI.get(), "§l§c玩偶","§l§c赞助者:DaiDai");
+        addWithTooltip(TTDBlock.BA_GA1.get(), "§l§c玩偶","§l§c赞助者:ba_ga1");
+        addWithTooltip(TTDBlock.APRIL_YIN.get(), "§l§c玩偶","§l§c赞助者:April_Yin");
+
 
     }
 
