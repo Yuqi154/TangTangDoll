@@ -31,6 +31,8 @@ public class TTDStateProvider extends BlockStateProvider {
         horizontalBlock(TTDBlock.DAIDAI.get(),models().getExistingFile(modLoc("block/daidai")));
         horizontalBlock(TTDBlock.BA_GA1.get(),models().getExistingFile(modLoc("block/ba_ga1")));
         horizontalBlock(TTDBlock.APRIL_YIN.get(),models().getExistingFile(modLoc("block/april_yin")));
+        horizontalBlock(TTDBlock.MAOAOMO.get(),models().getExistingFile(modLoc("block/maoaomo")));
+        horizontalBlock(TTDBlock.NAN_CG.get(),models().getExistingFile(modLoc("block/nan_cg")));
 
     }
 }
