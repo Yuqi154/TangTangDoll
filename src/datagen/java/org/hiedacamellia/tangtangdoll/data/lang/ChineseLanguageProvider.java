@@ -36,6 +36,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.APRIL_YIN.get(), "§l§c玩偶","§l§c赞助者:April_Yin");
         addWithTooltip(TTDBlock.MAOAOMO.get(), "§l§b玩偶","§l§bCV:maoaomo");
         addWithTooltip(TTDBlock.NAN_CG.get(), "§l§c玩偶","§l§c赞助者:Nan_cg");
+        addWithTooltip(TTDBlock.STAUR_DIUDIU.get(), "§l§c玩偶","§l§c任务编辑:Staur_diudiu");
 
 
     }

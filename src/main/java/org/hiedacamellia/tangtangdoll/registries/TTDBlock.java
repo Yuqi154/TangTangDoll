@@ -52,5 +52,7 @@ public class TTDBlock {
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 	public static final DeferredBlock<Block> NAN_CG = BLOCKS.register("nan_cg", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> STAUR_DIUDIU = BLOCKS.register("staur_diudiu", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 
 }
