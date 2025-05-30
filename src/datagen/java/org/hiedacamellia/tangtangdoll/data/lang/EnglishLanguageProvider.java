@@ -36,6 +36,7 @@ public class EnglishLanguageProvider extends LanguageProvider {
         add(TTDBlock.MAOAOMO.get(), "Doll");
         add(TTDBlock.NAN_CG.get(), "Doll");
         add(TTDBlock.STAUR_DIUDIU.get(), "Doll");
+        add(TTDBlock.HAOJIUJING.get(), "Doll");
 
     }
 }

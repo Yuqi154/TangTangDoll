@@ -31,6 +31,7 @@ public class TTDItem {
     public static final DeferredItem<BlockItem> MAOAOMO = REGISTRY.register("maoaomo", ()->new DollItem(TTDBlock.MAOAOMO.get()));
     public static final DeferredItem<BlockItem> NAN_CG = REGISTRY.register("nan_cg", ()->new DollItem(TTDBlock.NAN_CG.get()));
     public static final DeferredItem<BlockItem> STAUR_DIUDIU = REGISTRY.register("staur_diudiu", ()->new DollItem(TTDBlock.STAUR_DIUDIU.get()));
+    public static final DeferredItem<BlockItem> HAOJIUJING = REGISTRY.register("haojiujing", ()->new DollItem(TTDBlock.HAOJIUJING.get()));
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);
