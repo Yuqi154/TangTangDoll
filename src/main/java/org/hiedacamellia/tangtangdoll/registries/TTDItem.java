@@ -16,9 +16,6 @@ public class TTDItem {
 
     public static final DeferredItem<Item> RANDOM = REGISTRY.register("random", ()->new RandomDoll(new Item.Properties()));
 
-    public static final DeferredItem<BlockItem> DOLL = REGISTRY.register("doll", ()->new DollItem(TTDBlock.DOLL.get()));
-    public static final DeferredItem<BlockItem> DOLL_SMALL = REGISTRY.register("doll_small", ()->new DollItem(TTDBlock.DOLL_SMALL.get()));
-    public static final DeferredItem<BlockItem> DOLL_SMALL_HD = REGISTRY.register("doll_small_hd", ()->new DollItem(TTDBlock.DOLL_SMALL.get()));
     public static final DeferredItem<BlockItem> MISS_HEIHU = REGISTRY.register("miss_heihu", ()->new DollItem(TTDBlock.MISS_HEIHU.get()));
     public static final DeferredItem<BlockItem> BILIBILI_3739055 = REGISTRY.register("bilibili_3739055", ()->new DollItem(TTDBlock.BILIBILI_3739055.get()));
     public static final DeferredItem<BlockItem> DOLL_HD = REGISTRY.register("doll_hd", ()->new DollItem(TTDBlock.DOLL_HD.get()));
@@ -37,6 +34,7 @@ public class TTDItem {
     public static final DeferredItem<BlockItem> NAN_CG = REGISTRY.register("nan_cg", ()->new DollItem(TTDBlock.NAN_CG.get()));
     public static final DeferredItem<BlockItem> STAUR_DIUDIU = REGISTRY.register("staur_diudiu", ()->new DollItem(TTDBlock.STAUR_DIUDIU.get()));
     public static final DeferredItem<BlockItem> HAOJIUJING = REGISTRY.register("haojiujing", ()->new DollItem(TTDBlock.HAOJIUJING.get()));
+    public static final DeferredItem<BlockItem> SONG_YING = REGISTRY.register("song_ying", ()->new DollItem(TTDBlock.SONG_YING.get()));
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);

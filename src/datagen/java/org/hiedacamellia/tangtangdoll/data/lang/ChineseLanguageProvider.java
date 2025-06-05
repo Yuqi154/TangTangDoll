@@ -20,9 +20,6 @@ public class ChineseLanguageProvider extends LanguageProvider {
 
         add(TTDItem.RANDOM.get(),"玩偶盲盒");
 
-        addWithTooltip(TTDBlock.DOLL.get(), "示例","这是一个示例");
-        addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号示例","糖糖");
-        addWithTooltip(TTDBlock.DOLL_SMALL_HD.get(), "小号示例（高清）","§l§b示例");
         addWithTooltip(TTDBlock.MISS_HEIHU.get(), "§l§c玩偶","§l§c赞助者:Miss_Heihu");
         addWithTooltip(TTDBlock.BILIBILI_3739055.get(), "§l§c玩偶","§l§c作者:Bilibili_3739055");
         addWithTooltip(TTDBlock.DOLL_HD.get(), "§l§b玩偶","§l§c作者:Bilibili_3739055");
@@ -41,6 +38,7 @@ public class ChineseLanguageProvider extends LanguageProvider {
         addWithTooltip(TTDBlock.NAN_CG.get(), "§l§c玩偶","§l§c赞助者:Nan_cg");
         addWithTooltip(TTDBlock.STAUR_DIUDIU.get(), "§l§c玩偶","§l§c任务编辑:Staur_diudiu");
         addWithTooltip(TTDBlock.HAOJIUJING.get(), "§l§B玩偶","§l§BCV:HaoJiujing");
+        addWithTooltip(TTDBlock.SONG_YING.get(), "§l§b玩偶","§l§cB站主播:Song_ying 直播间ID:32171565");
 
 
     }

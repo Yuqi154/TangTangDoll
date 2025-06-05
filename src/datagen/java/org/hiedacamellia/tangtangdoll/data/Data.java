@@ -6,6 +6,7 @@ import net.neoforged.neoforge.data.event.GatherDataEvent;
 import org.hiedacamellia.tangtangdoll.TangTangDoll;
 import org.hiedacamellia.tangtangdoll.data.lang.ChineseLanguageProvider;
 import org.hiedacamellia.tangtangdoll.data.lang.EnglishLanguageProvider;
+import org.hiedacamellia.tangtangdoll.data.provider.TTDRecipeProvider;
 import org.hiedacamellia.tangtangdoll.data.provider.TTDStateProvider;
 
 @EventBusSubscriber(modid = TangTangDoll.MODID, bus = EventBusSubscriber.Bus.MOD)
@@ -15,9 +16,11 @@ public class Data {
         var gen = event.getGenerator();
         var packOutput = gen.getPackOutput();
         var helper = event.getExistingFileHelper();
+        var registries = event.getLookupProvider();
         gen.addProvider(event.includeClient(), new EnglishLanguageProvider(packOutput));
         gen.addProvider(event.includeClient(), new ChineseLanguageProvider(packOutput));
         gen.addProvider(event.includeClient(), new TTDStateProvider(packOutput, helper));
+        gen.addProvider(event.includeClient(), new TTDRecipeProvider(packOutput, registries));
 
     }
 }

@@ -13,7 +13,7 @@ public class TTDTab {
     public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, TangTangDoll.MODID);
 
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> TANG_TANG_DOLL = REGISTRY.register("tangtangdoll",
-            () -> CreativeModeTab.builder().title(Component.translatable("item_group.tangtangdoll")).icon(() -> new ItemStack(TTDItem.DOLL.get())).displayItems((parameters, tabData) -> {
+            () -> CreativeModeTab.builder().title(Component.translatable("item_group.tangtangdoll")).icon(() -> new ItemStack(TTDItem.BILIBILI_3739055.get())).displayItems((parameters, tabData) -> {
                         for (DeferredHolder<Item, ? extends Item> item: TTDItem.REGISTRY.getEntries()){
                             tabData.accept(item.get());
                         }

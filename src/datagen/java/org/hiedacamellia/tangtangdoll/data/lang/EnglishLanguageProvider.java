@@ -16,9 +16,6 @@ public class EnglishLanguageProvider extends LanguageProvider {
 
         add("item_group.tangtangdoll", "Tang Tang Doll");
 
-        add(TTDBlock.DOLL.get(), "Doll");
-        add(TTDBlock.DOLL_SMALL.get(), "Small Doll");
-        add(TTDBlock.DOLL_SMALL_HD.get(), "Small Doll HD");
         add(TTDBlock.MISS_HEIHU.get(), "Doll");
         add(TTDBlock.BILIBILI_3739055.get(), "Doll");
         add(TTDBlock.DOLL_HD.get(), "Doll HD");
@@ -37,6 +34,7 @@ public class EnglishLanguageProvider extends LanguageProvider {
         add(TTDBlock.NAN_CG.get(), "Doll");
         add(TTDBlock.STAUR_DIUDIU.get(), "Doll");
         add(TTDBlock.HAOJIUJING.get(), "Doll");
+        add(TTDBlock.SONG_YING.get(), "Doll");
 
     }
 }

@@ -14,9 +14,6 @@ public class TTDStateProvider extends BlockStateProvider {
     @Override
     protected void registerStatesAndModels() {
 
-        horizontalBlock(TTDBlock.DOLL.get(),models().getExistingFile(modLoc("block/doll")));
-        horizontalBlock(TTDBlock.DOLL_SMALL.get(),models().getExistingFile(modLoc("block/doll_small")));
-        horizontalBlock(TTDBlock.DOLL_SMALL_HD.get(),models().getExistingFile(modLoc("block/doll_small_hd")));
         horizontalBlock(TTDBlock.MISS_HEIHU.get(),models().getExistingFile(modLoc("block/miss_heihu")));
         horizontalBlock(TTDBlock.BILIBILI_3739055.get(),models().getExistingFile(modLoc("block/bilibili_3739055")));
         horizontalBlock(TTDBlock.DOLL_HD.get(),models().getExistingFile(modLoc("block/doll_hd")));
@@ -35,6 +32,9 @@ public class TTDStateProvider extends BlockStateProvider {
         horizontalBlock(TTDBlock.NAN_CG.get(),models().getExistingFile(modLoc("block/nan_cg")));
         horizontalBlock(TTDBlock.STAUR_DIUDIU.get(),models().getExistingFile(modLoc("block/staur_diudiu")));
         horizontalBlock(TTDBlock.HAOJIUJING.get(),models().getExistingFile(modLoc("block/haojiujing")));
+        horizontalBlock(TTDBlock.SONG_YING.get(),models().getExistingFile(modLoc("block/song_ying")));
 
     }
+
+
 }
