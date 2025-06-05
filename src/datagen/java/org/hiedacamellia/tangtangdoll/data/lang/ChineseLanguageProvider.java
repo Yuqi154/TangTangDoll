@@ -5,6 +5,7 @@ import net.minecraft.world.level.block.Block;
 import net.neoforged.neoforge.common.data.LanguageProvider;
 import org.hiedacamellia.tangtangdoll.TangTangDoll;
 import org.hiedacamellia.tangtangdoll.registries.TTDBlock;
+import org.hiedacamellia.tangtangdoll.registries.TTDItem;
 
 public class ChineseLanguageProvider extends LanguageProvider {
 
@@ -16,6 +17,8 @@ public class ChineseLanguageProvider extends LanguageProvider {
     protected void addTranslations() {
 
         add("item_group.tangtangdoll", "糖糖玩偶");
+
+        add(TTDItem.RANDOM.get(),"玩偶盲盒");
 
         addWithTooltip(TTDBlock.DOLL.get(), "示例","这是一个示例");
         addWithTooltip(TTDBlock.DOLL_SMALL.get(), "小号示例","糖糖");

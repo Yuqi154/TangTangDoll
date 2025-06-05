@@ -1,15 +1,20 @@
 package org.hiedacamellia.tangtangdoll.registries;
 
 import net.minecraft.world.item.BlockItem;
+import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import org.hiedacamellia.tangtangdoll.TangTangDoll;
 import org.hiedacamellia.tangtangdoll.common.item.DollItem;
+import org.hiedacamellia.tangtangdoll.common.item.RandomDoll;
+
 //注册物品注意最后
 @SuppressWarnings("unused")
 public class TTDItem {
     public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(TangTangDoll.MODID);
+
+    public static final DeferredItem<Item> RANDOM = REGISTRY.register("random", ()->new RandomDoll(new Item.Properties()));
 
     public static final DeferredItem<BlockItem> DOLL = REGISTRY.register("doll", ()->new DollItem(TTDBlock.DOLL.get()));
     public static final DeferredItem<BlockItem> DOLL_SMALL = REGISTRY.register("doll_small", ()->new DollItem(TTDBlock.DOLL_SMALL.get()));
