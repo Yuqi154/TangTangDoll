@@ -50,5 +50,39 @@ public class TTDBlock {
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 	public static final DeferredBlock<Block> SONG_YING = BLOCKS.register("song_ying", ()->new DollBlock(BlockBehaviour.Properties.of()
 			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> SUR07921 = BLOCKS.register("sur07921", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> NANZHEN1 = BLOCKS.register("nanzhen1", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> LONGJINGCHA97 = BLOCKS.register("longjingcha97", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> MANGSHE = BLOCKS.register("mangshe", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> HUALIANYU = BLOCKS.register("hualianyu", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> MUDKIP521 = BLOCKS.register("mudkip521", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> ZE_ZE666 = BLOCKS.register("ze_ze666", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> WHITE_BEAR0 = BLOCKS.register("white_bear0", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> WHITE_BEAR011 = BLOCKS.register("white_bear011", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> GUI_SHU0 = BLOCKS.register("gui_shu0", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> GUI_SHU01 = BLOCKS.register("gui_shu01", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> AAA = BLOCKS.register("aaa", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> AYOOOQAQ = BLOCKS.register("ayoooqaq", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> YIN_88 = BLOCKS.register("yin_88", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> SERVANIGHT = BLOCKS.register("servanight", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> FSFTE = BLOCKS.register("fsfte", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
+	public static final DeferredBlock<Block> YYLLA_A = BLOCKS.register("yylla_a", ()->new DollBlock(BlockBehaviour.Properties.of()
+			.noOcclusion().sound(SoundType.WOOL).strength(1f, 100f).pushReaction(PushReaction.IGNORE)));
 
 }

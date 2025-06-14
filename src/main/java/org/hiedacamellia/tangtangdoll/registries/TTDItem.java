@@ -35,6 +35,23 @@ public class TTDItem {
     public static final DeferredItem<BlockItem> STAUR_DIUDIU = REGISTRY.register("staur_diudiu", ()->new DollItem(TTDBlock.STAUR_DIUDIU.get()));
     public static final DeferredItem<BlockItem> HAOJIUJING = REGISTRY.register("haojiujing", ()->new DollItem(TTDBlock.HAOJIUJING.get()));
     public static final DeferredItem<BlockItem> SONG_YING = REGISTRY.register("song_ying", ()->new DollItem(TTDBlock.SONG_YING.get()));
+    public static final DeferredItem<BlockItem> SUR07921 = REGISTRY.register("sur07921", ()->new DollItem(TTDBlock.SUR07921.get()));
+    public static final DeferredItem<BlockItem> NANZHEN1 = REGISTRY.register("nanzhen1", ()->new DollItem(TTDBlock.NANZHEN1.get()));
+    public static final DeferredItem<BlockItem> LONGJINGCHA97 = REGISTRY.register("longjingcha97", ()->new DollItem(TTDBlock.LONGJINGCHA97.get()));
+    public static final DeferredItem<BlockItem> MANGSHE = REGISTRY.register("mangshe", ()->new DollItem(TTDBlock.MANGSHE.get()));
+    public static final DeferredItem<BlockItem> HUALIANYU = REGISTRY.register("hualianyu", ()->new DollItem(TTDBlock.HUALIANYU.get()));
+    public static final DeferredItem<BlockItem> MUDKIP521 = REGISTRY.register("mudkip521", ()->new DollItem(TTDBlock.MUDKIP521.get()));
+    public static final DeferredItem<BlockItem> ZE_ZE666 = REGISTRY.register("ze_ze666", ()->new DollItem(TTDBlock.ZE_ZE666.get()));
+    public static final DeferredItem<BlockItem> WHITE_BEAR0 = REGISTRY.register("white_bear0", ()->new DollItem(TTDBlock.WHITE_BEAR0.get()));
+    public static final DeferredItem<BlockItem> WHITE_BEAR011 = REGISTRY.register("white_bear011", ()->new DollItem(TTDBlock.WHITE_BEAR011.get()));
+    public static final DeferredItem<BlockItem> GUI_SHU0 = REGISTRY.register("gui_shu0", ()->new DollItem(TTDBlock.GUI_SHU0.get()));
+    public static final DeferredItem<BlockItem> GUI_SHU01 = REGISTRY.register("gui_shu01", ()->new DollItem(TTDBlock.GUI_SHU01.get()));
+    public static final DeferredItem<BlockItem> AAA = REGISTRY.register("aaa", ()->new DollItem(TTDBlock.AAA.get()));
+    public static final DeferredItem<BlockItem> YIN_88 = REGISTRY.register("yin_88", ()->new DollItem(TTDBlock.YIN_88.get()));
+    public static final DeferredItem<BlockItem> SERVANIGHT = REGISTRY.register("servanight", ()->new DollItem(TTDBlock.SERVANIGHT.get()));
+    public static final DeferredItem<BlockItem> FSFTE = REGISTRY.register("fsfte", ()->new DollItem(TTDBlock.FSFTE.get()));
+    public static final DeferredItem<BlockItem> YYLLA_A = REGISTRY.register("yylla_a", ()->new DollItem(TTDBlock.YYLLA_A.get()));
+
 
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);

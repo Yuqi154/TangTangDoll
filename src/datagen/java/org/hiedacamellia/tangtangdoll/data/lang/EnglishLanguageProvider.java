@@ -35,6 +35,23 @@ public class EnglishLanguageProvider extends LanguageProvider {
         add(TTDBlock.STAUR_DIUDIU.get(), "Doll");
         add(TTDBlock.HAOJIUJING.get(), "Doll");
         add(TTDBlock.SONG_YING.get(), "Doll");
+        add(TTDBlock.SUR07921.get(), "Doll");
+        add(TTDBlock.NANZHEN1.get(), "Doll");
+        add(TTDBlock.LONGJINGCHA97.get(), "Doll");
+        add(TTDBlock.MANGSHE.get(), "Doll");
+        add(TTDBlock.HUALIANYU.get(), "Doll");
+        add(TTDBlock.MUDKIP521.get(), "Doll");
+        add(TTDBlock.ZE_ZE666.get(), "Doll");
+        add(TTDBlock.WHITE_BEAR0.get(), "Doll");
+        add(TTDBlock.WHITE_BEAR011.get(), "Doll");
+        add(TTDBlock.GUI_SHU0.get(), "Doll");
+        add(TTDBlock.GUI_SHU01.get(), "Doll");
+        add(TTDBlock.AAA.get(), "Doll");
+        add(TTDBlock.AYOOOQAQ.get(), "Doll");
+        add(TTDBlock.YIN_88.get(), "Doll");
+        add(TTDBlock.YYLLA_A.get(), "Doll");
+        add(TTDBlock.SERVANIGHT.get(), "Doll");
+        add(TTDBlock.FSFTE.get(), "Doll");
 
     }
 }
